@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohhaanmane&label=Profile%20views&color=0e75b6&style=flat" alt="rohhaanmane" /> </p>
 
-- 🔭 I’m currently working on **StudyBuddy -Chat Rooms Django Project**
+- 🔭 I’m currently pursuing  **CDAC- PG-DAC from Sunbeam infotech Pune**
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Python, Djnago, HTML,CSS, JavaScript**
+- 💬 Ask me about **Java, C++, HTML,CSS, JavaScript, Reactjs, Nodejs, Express, MySQL, MongoDb, DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
